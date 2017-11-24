@@ -1,5 +1,8 @@
 Live: https://maxku-test4.000webhostapp.com/
 
+Admin: test@test.test 123123
+User: test2@test.test 123123
+
 Создать проект на удобном Вам PHP Framework (yii2, laravel, symphony, and etc)
  
 Суть проекта:
